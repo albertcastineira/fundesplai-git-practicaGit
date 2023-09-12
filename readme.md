@@ -1,3 +1,3 @@
 # Welcome!  
 Welcome to fundesplai.  
-In enfoca't you will learn tons of things!
+At enfoca't you will learn tons of things!
