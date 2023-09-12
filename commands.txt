@@ -1,0 +1,10 @@
+These are the commands that I've used to resolve this exercise:
+
+1- git clone git@github.com:DavidBernalGonzalez/practicaGit.git
+2- git branch -a
+3- git checkout practica01
+4- git status & git commit
+5-6 git checkout -b practica1_Castineira_Aranda_Albert & git add . & git commit -m "COMMIT_DESC"
+8- git add . & git commit -m "COMMIT_DESC" & git remote rm origin & git remote add origin git@github.com:albertcastineira/fundesplai-git-practicaGit.git & git push
+9- git checkout practica01
+10- git merge practica1_Castineira_Aranda_Albert
